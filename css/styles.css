@@ -367,6 +367,7 @@ img {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
+  width: 1170px;
 }
 
 .portfolio-list-item {
@@ -413,6 +414,7 @@ img {
   padding-right: 22px;
 
   background-color: #f5f4fa;
+  border-style: none;
   border-radius: 4px;
 
   font-family: var(--primary-font);
